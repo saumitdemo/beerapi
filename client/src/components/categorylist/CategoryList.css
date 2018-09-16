@@ -1,0 +1,12 @@
+ul {
+    list-style: none;
+    margin: auto;
+}
+
+form {
+    border: black solid 1px;
+    width: 50%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
